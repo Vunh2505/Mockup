@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-hello-js-1b99787791f47c99ee0a.js","mappings":"0JAMA,UAJuB,IACd,0BAAI,gB","sources":["webpack://gatsby-starter-default/./src/pages/hello.js"],"sourcesContent":["import * as React from \"react\"\n\nconst HelloWorldPage = () => {\n  return <h1>Hello, World!</h1>\n}\n\nexport default HelloWorldPage\n"],"names":[],"sourceRoot":""}
